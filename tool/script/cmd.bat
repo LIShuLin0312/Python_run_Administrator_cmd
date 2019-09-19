@@ -1,0 +1,1 @@
+chrome.exe --remote-debugging-port=9221 --user-data-dir="C:/selenum/AutomationProfile1"
